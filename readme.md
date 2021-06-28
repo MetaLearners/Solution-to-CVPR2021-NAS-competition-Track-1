@@ -1,7 +1,6 @@
-# Code of CVPR2021 NAS track1 4th Solution Illustration
+# Solution to CVPR2021 NAS track1
 
-- Stage 2, Leaderboard A, 3rd
-- Stage 2, Leaderboard B, 4th
+- Stage 2, Leaderboard B, 3rd (tied)
 
 Please follow [readme.ipynb](readme.ipynb) to reproduce the results.
 
